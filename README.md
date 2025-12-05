@@ -15,3 +15,4 @@ https://docs.google.com/document/d/199B3ixbhRTCzHMeBLNFdr_oy8fnSHuRbm9FPBrEaa3k/
 https://sites.google.com/classroom.events/view/home
 https://helios-browser.vercel.app
 https://sites.google.com/apps.district279.org/g2meportal1/home
+https://helios-blue.vercel.app
