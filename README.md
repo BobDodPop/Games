@@ -16,3 +16,4 @@ https://sites.google.com/classroom.events/view/home
 https://helios-browser.vercel.app
 https://sites.google.com/apps.district279.org/g2meportal1/home
 https://helios-blue.vercel.app
+https://sites.google.com/apps.district279.org/279-games/home
