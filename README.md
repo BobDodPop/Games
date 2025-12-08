@@ -24,3 +24,4 @@ https://hypackellite1.github.io |
 https://sites.google.com/view/emulatorjs/home |
 https://tarnos12.github.io/project/ |
 https://duducat.moe/gacha/ |
+https://d3rtzzzsiu7gdr.cloudfront.net/library.html |
