@@ -23,3 +23,4 @@ https://unblocked-games.s3.amazonaws.com/index.html |
 https://hypackellite1.github.io |
 https://sites.google.com/view/emulatorjs/home |
 https://tarnos12.github.io/project/ |
+https://duducat.moe/gacha/ |
