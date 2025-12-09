@@ -29,6 +29,7 @@
 - https://helios-blue.vercel.app  
 - https://ihatedis1212.github.io/ExisteneGG2V2/
 
-# Other Links
-- https://sites.google.com/students.usd385.org/bungo-stray-dogs/home  
+# Anime & Manga
+- https://sites.google.com/view/free-animanga/subbed/attackontitan-sub?authuser=1
+- https://sites.google.com/students.usd385.org/bungo-stray-dogs/home
 - https://www.goodreads.com/topic/show/23108486-lightspeed  
