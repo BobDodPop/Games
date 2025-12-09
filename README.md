@@ -7,7 +7,8 @@
 - https://tmnlabs.com/static/games/random-internet-games/  
 - https://unblocked-games.s3.amazonaws.com/index.html  
 - https://orcatech2711.github.io/nano/index.html
-- https://hyperrushnet.github.io  
+- https://hyperrushnet.github.io
+- https://neruvy.github.io/neruvy-games/  
 
 # Games That Don't Save
 - https://sites.google.com/view/emulatorjs/home  
