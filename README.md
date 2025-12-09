@@ -20,7 +20,7 @@ https://unblocked-games.s3.amazonaws.com/index.html
 https://hypackellite1.github.io  
 https://sites.google.com/view/emulatorjs/home  
 https://d3rtzzzsiu7gdr.cloudfront.net/library.html  
-# Saves
+# Games That Save
 https://tarnos12.github.io/project/  
 https://duducat.moe/gacha/  
 https://scorzy.github.io/IdleSpace/  
