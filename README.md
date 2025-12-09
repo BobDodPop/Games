@@ -26,6 +26,7 @@ https://docs.google.com/document/d/199B3ixbhRTCzHMeBLNFdr_oy8fnSHuRbm9FPBrEaa3k/
 # Proxies
 https://helios-browser.vercel.app  
 https://helios-blue.vercel.app  
+https://ihatedis1212.github.io/ExisteneGG2V2/
 
 # Other Links
 https://sites.google.com/students.usd385.org/bungo-stray-dogs/home  
