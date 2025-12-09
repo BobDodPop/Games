@@ -6,7 +6,8 @@
 - https://manarion.com/  
 - https://tmnlabs.com/static/games/random-internet-games/  
 - https://unblocked-games.s3.amazonaws.com/index.html  
-- https://orcatech2711.github.io/nano/index.html  
+- https://orcatech2711.github.io/nano/index.html
+- https://hyperrushnet.github.io  
 
 # Games That Don't Save
 - https://sites.google.com/view/emulatorjs/home  
