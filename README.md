@@ -1,3 +1,7 @@
+# Best Link:
+Very good \/
+- https://rb.gy/w80my6
+Amazing /\
 # Games That Save
 - https://tarnos12.github.io/project/  
 - https://duducat.moe/gacha/  
