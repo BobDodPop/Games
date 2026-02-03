@@ -11,7 +11,8 @@
 - https://orcatech2711.github.io/nano/index.html
 - https://hyperrushnet.github.io
 - https://neruvy.github.io/neruvy-games/
-- https://dnrweqffuwjtx.cloudfront.net/new-games/  
+- https://dnrweqffuwjtx.cloudfront.net/new-games/
+- https://chalice12.github.io/incremancer/  
 
 # Games That Don't Save
 - https://sites.google.com/view/emulatorjs/home  
