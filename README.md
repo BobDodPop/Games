@@ -12,7 +12,8 @@
 - https://hyperrushnet.github.io
 - https://neruvy.github.io/neruvy-games/
 - https://dnrweqffuwjtx.cloudfront.net/new-games/
-- https://chalice12.github.io/incremancer/  
+- https://chalice12.github.io/incremancer/
+- https://shark-game-remaster.g8hh.com  
 
 # Games That Don't Save
 - https://sites.google.com/view/emulatorjs/home  
