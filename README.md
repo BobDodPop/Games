@@ -13,7 +13,8 @@
 - https://neruvy.github.io/neruvy-games/
 - https://dnrweqffuwjtx.cloudfront.net/new-games/
 - https://chalice12.github.io/incremancer/
-- https://shark-game-remaster.g8hh.com  
+- https://shark-game-remaster.g8hh.com
+- https://edgewoodgames.vercel.app  
 
 # Games That Don't Save
 - https://sites.google.com/view/emulatorjs/home  
