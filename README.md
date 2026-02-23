@@ -35,7 +35,7 @@
 # Proxies
 - https://helios-browser.vercel.app  
 - https://helios-blue.vercel.app  
-- https://ihatedis1212.github.io/ExisteneGG2V2/
+- https://ihatedis1212.github.io/ExistenceGG2V2/
 
 # Anime & Manga
 - https://sites.google.com/view/free-animanga/subbed/attackontitan-sub?authuser=1
