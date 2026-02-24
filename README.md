@@ -14,7 +14,8 @@
 - https://dnrweqffuwjtx.cloudfront.net/new-games/
 - https://chalice12.github.io/incremancer/
 - https://shark-game-remaster.g8hh.com
-- https://edgewoodgames.vercel.app  
+- https://edgewoodgames.vercel.app
+- https://d3tecwpbnz01jy.cloudfront.net  
 
 # Games That Don't Save
 - https://sites.google.com/view/emulatorjs/home  
