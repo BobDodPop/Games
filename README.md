@@ -26,7 +26,10 @@
 - https://sites.google.com/apps.district279.org/279-games/home  
 - https://sites.google.com/apps.district279.org/g2meportal1/home  
 - https://sites.google.com/view/4classroom6x/home   
-- https://sites.google.com/online.houstonisd.org/unbloocked-games-chez  
+- https://sites.google.com/online.houstonisd.org/unbloocked-games-chez
+
+# Other Games
+- https://gamebuino.com/creations/celeste-classic  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
