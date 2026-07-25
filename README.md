@@ -31,6 +31,7 @@
 # Other Games
 - https://gamebuino.com/creations/celeste-classic
 - https://unblocked-games-g.gitlab.io/pico8/  
+- https://idle-js-games.github.io/idle-js-games-list/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
