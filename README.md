@@ -30,7 +30,8 @@
 - https://idle-js-games.github.io/idle-js-games-list/
 - https://gzgreg.github.io/DerivativeClicker/
 - https://zombiefox.github.io/toaster/
-- https://fionnfuchs.github.io/bubbleverse/  
+- https://fionnfuchs.github.io/bubbleverse/
+- https://mrsperry.github.io/overseer/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
