@@ -1,6 +1,6 @@
 # Best Link:
 - https://rb.gy/w80my6
-# Games That Save
+# Games
 - https://tarnos12.github.io/project/  
 - https://duducat.moe/gacha/  
 - https://scorzy.github.io/IdleSpace/  
@@ -16,8 +16,6 @@
 - https://shark-game-remaster.g8hh.com
 - https://edgewoodgames.vercel.app
 - https://d3tecwpbnz01jy.cloudfront.net  
-
-# Games That Don't Save
 - https://sites.google.com/view/emulatorjs/home  
 - https://hypackellite1.github.io  
 - https://d3rtzzzsiu7gdr.cloudfront.net/library.html  
@@ -27,12 +25,12 @@
 - https://sites.google.com/apps.district279.org/g2meportal1/home  
 - https://sites.google.com/view/4classroom6x/home   
 - https://sites.google.com/online.houstonisd.org/unbloocked-games-chez
-
-# Other Games
 - https://gamebuino.com/creations/celeste-classic
 - https://unblocked-games-g.gitlab.io/pico8/  
 - https://idle-js-games.github.io/idle-js-games-list/
-- https://gzgreg.github.io/DerivativeClicker/  
+- https://gzgreg.github.io/DerivativeClicker/
+- https://zombiefox.github.io/toaster/
+- https://fionnfuchs.github.io/bubbleverse/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
