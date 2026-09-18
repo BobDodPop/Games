@@ -19,10 +19,13 @@
 - https://mrsperry.github.io/overseer/
 - https://poochyexe.github.io/pachinkremental/pachinkremental.html
 - https://bobdodpop.github.io/mirathecat/
+
+# Upgrade Tree Games
 - https://thefinaluptake.github.io/The-Burning-Tree/
 - https://okamii17.github.io/Prestige-Tree-Stardust/
 - https://loader3229.github.io/multitree/
-- https://janexthehero1.github.io/ThePrestigeUpgradeTree/  
+- https://janexthehero1.github.io/ThePrestigeUpgradeTree/
+- https://mirc3a22000.github.io/the-lime-upgrade-tree/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
