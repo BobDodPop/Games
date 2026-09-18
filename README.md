@@ -33,7 +33,6 @@
 - https://fionnfuchs.github.io/bubbleverse/
 - https://mrsperry.github.io/overseer/
 - https://poochyexe.github.io/pachinkremental/pachinkremental.html
-- https://bobdodpop.github.io/Prestige-Tree/
 - https://bobdodpop.github.io/mirathecat/  
 
 # Docs (Not Made By Me)
