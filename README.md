@@ -27,7 +27,8 @@
 - https://janexthehero1.github.io/ThePrestigeUpgradeTree/
 - https://mirc3a22000.github.io/the-lime-upgrade-tree/
 - https://coolradgamer.github.io/CRGs-Neck-Tree/  
-- https://ajchen02.github.io/The-Chronicle-Tree/  
+- https://ajchen02.github.io/The-Chronicle-Tree/
+- https://cubedey.github.io/The-Tree-Prestige/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
