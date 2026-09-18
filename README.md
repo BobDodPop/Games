@@ -35,7 +35,8 @@
 - https://poochyexe.github.io/pachinkremental/pachinkremental.html
 - https://bobdodpop.github.io/mirathecat/
 - https://thefinaluptake.github.io/The-Burning-Tree/
-- https://okamii17.github.io/Prestige-Tree-Stardust/  
+- https://okamii17.github.io/Prestige-Tree-Stardust/
+- https://loader3229.github.io/multitree/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
