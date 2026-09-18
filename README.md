@@ -33,7 +33,8 @@
 - https://fionnfuchs.github.io/bubbleverse/
 - https://mrsperry.github.io/overseer/
 - https://poochyexe.github.io/pachinkremental/pachinkremental.html
-- https://bobdodpop.github.io/mirathecat/  
+- https://bobdodpop.github.io/mirathecat/
+- https://thefinaluptake.github.io/The-Burning-Tree/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
