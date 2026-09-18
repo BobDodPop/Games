@@ -21,7 +21,8 @@
 - https://bobdodpop.github.io/mirathecat/
 - https://thefinaluptake.github.io/The-Burning-Tree/
 - https://okamii17.github.io/Prestige-Tree-Stardust/
-- https://loader3229.github.io/multitree/  
+- https://loader3229.github.io/multitree/
+- https://janexthehero1.github.io/ThePrestigeUpgradeTree/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
