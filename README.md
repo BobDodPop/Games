@@ -18,7 +18,8 @@
 - https://fionnfuchs.github.io/bubbleverse/
 - https://mrsperry.github.io/overseer/
 - https://poochyexe.github.io/pachinkremental/pachinkremental.html
-- https://bobdodpop.github.io/mirathecat/  
+- https://bobdodpop.github.io/mirathecat/
+- https://kaydengames24.github.io/just-a-platformer2/  
 
 # Upgrade Tree Games
 - https://thefinaluptake.github.io/The-Burning-Tree/
