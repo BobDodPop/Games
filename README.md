@@ -28,7 +28,8 @@
 - https://mirc3a22000.github.io/the-lime-upgrade-tree/
 - https://coolradgamer.github.io/CRGs-Neck-Tree/  
 - https://ajchen02.github.io/The-Chronicle-Tree/  
-- https://okthisnameistaken.github.io/The-Tuff-Tree/  
+- https://okthisnameistaken.github.io/The-Tuff-Tree/
+- https://loader3229.github.io/milestone-tree/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
