@@ -1,5 +1,3 @@
-# Best Link:
-- https://rb.gy/w80my6
 # Games
 - https://tarnos12.github.io/project/  
 - https://duducat.moe/gacha/  
