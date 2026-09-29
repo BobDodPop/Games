@@ -31,7 +31,8 @@
 - https://loader3229.github.io/milestone-tree/
 - https://c0v1d-9119361.github.io/The-Plague-Tree/
 - https://xxverycoolusernametotallynotoverusedxx.github.io/The-Geome-Tree-Dash/
-- https://medsal15.github.io/The-Gaming-Tree-Remaster/  
+- https://medsal15.github.io/The-Gaming-Tree-Remaster/
+- https://loader3229.github.io/Prestige-Tree-Dimensions/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
