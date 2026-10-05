@@ -17,7 +17,8 @@
 - https://mrsperry.github.io/overseer/
 - https://poochyexe.github.io/pachinkremental/pachinkremental.html
 - https://bobdodpop.github.io/mirathecat/
-- https://kaydengames24.github.io/just-a-platformer2/  
+- https://kaydengames24.github.io/just-a-platformer2/
+- https://edurocks-group.github.io/Class-Of-09-The-Flip-Side/  
 
 # Upgrade Tree Games
 - https://thefinaluptake.github.io/The-Burning-Tree/
