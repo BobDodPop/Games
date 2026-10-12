@@ -34,7 +34,8 @@
 - https://xxverycoolusernametotallynotoverusedxx.github.io/The-Geome-Tree-Dash/
 - https://medsal15.github.io/The-Gaming-Tree-Remaster/
 - https://loader3229.github.io/Prestige-Tree-Dimensions/
-- https://anemicwhistle49.github.io/The-SBURB-Tree/  
+- https://anemicwhistle49.github.io/The-SBURB-Tree/
+- https://bilboyx.github.io/The-Periodic-Table-Tree/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
