@@ -43,7 +43,9 @@
 - https://e205-idle-beta.github.io/normaltree.github.io/
 - https://medsal15.github.io/The-Gaming-Tree/
 - https://meme0846.github.io/Distance-Incremental/
-- https://midnight-wolf-darkness.github.io/Wolf-tree/  
+- https://midnight-wolf-darkness.github.io/Wolf-tree/
+- https://p-u.github.io/The-Point-Tree/
+- https://sigma-hopedy.github.io/The-PP-Tree/  
 
 # Docs (Not Made By Me)
 - https://docs.google.com/document/d/1-g_tH63oSyFjG4qEL6viqlaY_JCN0v8LOlcbtWYTHgo/edit?tab=t.arlsh07xux
